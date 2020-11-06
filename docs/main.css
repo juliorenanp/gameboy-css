@@ -69,7 +69,7 @@ input.btn-hide {
   position: relative;
   top: -30px;
   width: 100%;
-  height: 30px;
+  height: 1px;
   padding-top: 10px;
   box-sizing: border-box;
   text-align: right;
